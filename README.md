@@ -11,7 +11,9 @@ Currently available hacks:
 
 Feel free to use the issue queue for support, feature requests, bug reports and whatnot.
 
-Paperize can be found at http://paperize.io/
-An online beta test can be found at https://beta.editor.paperize.io/#/
-The Paperize code can be found at https://github.com/paperize/paperize
-Paperize documentation is managed at https://github.com/paperize/docs (but is usually accessed from the editor)
+Links:
+
+* Paperize can be found at http://paperize.io/
+* An online beta test can be found at https://beta.editor.paperize.io/#/
+* The Paperize code can be found at https://github.com/paperize/paperize
+* Paperize documentation is managed at https://github.com/paperize/docs (but is usually accessed from the editor)
