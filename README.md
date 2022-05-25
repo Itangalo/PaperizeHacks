@@ -10,3 +10,8 @@ Currently available hacks:
 * **merge**: Allows combining content from multiple sheets into a single sheet. A typical use case is different types of cards, where you want to manage data for (say) items separately from (say) spells, but still want Paperize to use a single component template for printing them all.
 
 Feel free to use the issue queue for support, feature requests, bug reports and whatnot.
+
+Paperize can be found at http://paperize.io/
+An online beta test can be found at https://beta.editor.paperize.io/#/
+The Paperize code can be found at https://github.com/paperize/paperize
+Paperize documentation is managed at https://github.com/paperize/docs (but is usually accessed from the editor)
