@@ -35,5 +35,5 @@ function mergeSheets() {
   }
 
   // Flip and return the table. (For coding convenience it has been built in the wrong direction.)
-  return table[0].map((_, colIndex) => table.map(row => row[colIndex]));
+  return output[0].map((_, colIndex) => output.map(row => row[colIndex]));
 }
